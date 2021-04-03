@@ -1,0 +1,29 @@
+#searchh1 {
+    margin-top: 20%;
+
+}
+
+body {
+    background-color: gainsboro;
+}
+
+.card-title{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.card{
+    margin-left: 12.5%;
+}
+
+.card-img{
+    height: 24rem;
+
+}
+
+#searchHeading {
+    margin-left: 12.5%;
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 700;
+}
